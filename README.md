@@ -1,4 +1,4 @@
-# tictactoe - By Praveen R
+# TicTacToe(Board Game) - By Praveen R
 
 ### Project Reference
 
